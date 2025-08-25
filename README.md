@@ -1,1 +1,1 @@
-# IGME-235-Fall-2025
+syllabus.md
