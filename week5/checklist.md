@@ -4,7 +4,7 @@
 
 - **Chapter 16 (First Half)** - "Flexbox"
   - Flexible layout system fundamentals
-  - Read before Monday class
+  - Read before Wednesday class
 
 - **Chapter 16 (Second Half)** - "CSS Grid"
   - Grid layout fundamentals and properties
@@ -20,7 +20,7 @@
 
 ## Quizzes
 
-- **Chapter 16a Study Quiz** (Flexbox) - Complete before Monday class
+- **Chapter 16a Study Quiz** (Flexbox) - Complete before Wednesday class
 - **Chapter 16b Study Quiz** (CSS Grid) - Complete before Wednesday class
 - **Chapter 17 Study Quiz** - Complete before Friday class
 
