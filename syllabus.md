@@ -12,7 +12,7 @@ This semester, there are **six** sections of this course. The exact expectations
 
 **Travis Stodter**
 - Office: GOL-2559
-- Office Hours: TBA
+- Office Hours: Wednesdays 11-1, Thursdays 10-12, and by appointment
 
 | Section | Meeting Times |
 | :------ | :------------ |
